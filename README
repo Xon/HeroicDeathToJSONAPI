@@ -1,0 +1,3 @@
+Simple Heroic Death to JSONAPI custom feed plugin.
+
+No configuration options, just exports HeroicDeath death events to the feed "deaths"
