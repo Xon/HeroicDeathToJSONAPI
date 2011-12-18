@@ -3,7 +3,7 @@ package org.Bukkitdev.Xon;
 import org.bukkit.ChatColor;
 import org.json.simpleForBukkit.JSONObject;
 
-import com.ramblingwood.minecraft.jsonapi.api.JSONAPIStreamMessage;
+import com.alecgorge.minecraft.jsonapi.api.JSONAPIStreamMessage;
 import com.herocraftonline.squallseed31.heroicdeath.DeathCertificate;
 
 public class DeathMessage extends JSONAPIStreamMessage {

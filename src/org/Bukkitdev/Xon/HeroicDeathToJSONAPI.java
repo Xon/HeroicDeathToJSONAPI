@@ -8,7 +8,7 @@ import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import com.herocraftonline.squallseed31.heroicdeath.HeroicDeath;
-import com.ramblingwood.minecraft.jsonapi.JSONAPI;
+import com.alecgorge.minecraft.jsonapi.JSONAPI;
 
 /**
  * KeepChunkInMemory - keeps chunks in server memory which are linked by portals

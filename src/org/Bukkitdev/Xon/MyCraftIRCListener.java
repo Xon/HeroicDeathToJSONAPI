@@ -5,8 +5,8 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.CustomEventListener;
 
 
-import com.ramblingwood.minecraft.jsonapi.api.*;
-import com.ramblingwood.minecraft.jsonapi.JSONAPI;
+import com.alecgorge.minecraft.jsonapi.api.*;
+import com.alecgorge.minecraft.jsonapi.JSONAPI;
 import com.herocraftonline.squallseed31.heroicdeath.HeroicDeathEvent;
 //
 
